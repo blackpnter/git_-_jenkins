@@ -13,7 +13,7 @@ public class Main {
         int money = scanner.nextInt();
         System.out.println("Your name is:  " + name);
         System.out.println( "Your wish money is:" + money);*/
-
+        // 1+1=2
 
     }
 }
